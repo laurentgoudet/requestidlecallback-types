@@ -23,7 +23,10 @@ export interface IdleRequestOptions {
     timeout: number;
 }
 
-export interface Window {
+
+declare global {
+  export interface Window {
     requestIdleCallback(callback: IdleRequestCallback, options?: IdleRequestOptions): IdleCallbackHandle;
     cancelIdleCallback(handle: number): void;
+  }
 }
