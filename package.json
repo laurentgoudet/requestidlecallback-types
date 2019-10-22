@@ -1,0 +1,39 @@
+{
+    "name": "requestidlecallback-types",
+    "version": "0.3.0",
+    "description": "TypeScript definitions for requestidlecallback",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "贺师俊",
+            "url": "https://github.com/hax",
+            "githubUsername": "hax"
+        },
+        {
+            "name": "Vladimir Grenaderov",
+            "url": "https://github.com/VladimirGrenaderov",
+            "githubUsername": "VladimirGrenaderov"
+        },
+        {
+            "name": "Max Boguslavskiy",
+            "url": "https://github.com/maxbogus",
+            "githubUsername": "maxbogus"
+        },
+        {
+            "name": "Teramoto Daiki",
+            "url": "https://github.com/teramotodaiki",
+            "githubUsername": "teramotodaiki"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/requestidlecallback"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "8bf0194d878ab69a5a8c4314db69505caf02db27aa34ac3a642af442a9268c8b",
+    "typeScriptVersion": "2.0"
+}
